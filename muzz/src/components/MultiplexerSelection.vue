@@ -31,7 +31,7 @@
   import DeviceItem from './DeviceItem.vue';
   import ConnectionDialog from './ConnectionDialog.vue';
   import io from 'socket.io-client';
-  import axios from 'axios';
+  //import axios from 'axios';
   
   export default {
     components: {
